@@ -1,7 +1,7 @@
 # BenefitDependency
 A simple tool for creating, improving, and publishing a benefit dependency network for business architecture
 
-This is a simple web application.  The front end will be in React.js while the middle tier is likely to be in node.js.  The back end will be a NoSQL database (not determined at this time).  All three tiers are included in this repository.  
+This is a simple web application.  The front end will be in React.js while the middle tier is likely to be in node.js.  The back end will be a NoSQL database (not determined at this time).  All three tiers are included in this repository.  The details of the stack will emerge in the coming weeks and details will be updated here.
 
 A benefit dependency network (or BDN) is an architectural diagram that illustrates a small handful of relationships in a flattened model.  It exists for three purposes: 
 1. To provide a thought model for the architect to flesh out rational business programs
